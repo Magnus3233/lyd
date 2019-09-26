@@ -1,0 +1,1 @@
+Her har vi fået vores kode til at kunne genkende de svar vi for at wekanater og give os en lyd ud fra det
